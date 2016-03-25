@@ -15,7 +15,9 @@ July - September
 
 Quarter 4
 October - December
-## Availability: Yes
+## Availability: No
 
 Also, please provide a link to your LinkedIn or other online resume. Thanks!
-### Link to LinkedIn: http://www.linkedin.com/in/shantanudeepdatta
+### http://www.linkedin.com/in/nickrfer
+### https://www.freecodecamp.com/nickrfer
+### http://codepen.io/nickrfer
