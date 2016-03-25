@@ -18,6 +18,6 @@ October - December
 ## Availability: No
 
 Also, please provide a link to your LinkedIn or other online resume. Thanks!
-### http://www.linkedin.com/in/nickrfer
+### https://www.linkedin.com/in/nickrfer
 ### https://www.freecodecamp.com/nickrfer
-### http://codepen.io/nickrfer
+### https://codepen.io/nickrfer
